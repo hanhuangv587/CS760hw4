@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.11)  16 MAR 2023 10:02
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.3.21)  21 MAR 2023 02:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/CS760hw4/hw4
-(d:/CS760hw4/hw4.tex
+**"f:/CS 760/CS760HW4/hw4"
+(f:/CS 760/CS760HW4/hw4.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (c:/Users/localnet/scoop/apps/texlive-full/current/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -457,9 +457,9 @@ Package: times 2020/03/25 PSNFSS-v9.3 (SPQR)
 ) (c:/Users/localnet/scoop/apps/texlive-full/current/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (c:/Users/localnet/scoop/apps/texlive-full/current/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
  (c:/Users/localnet/scoop/apps/texlive-full/current/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@tempdima=\dimen182
 \captionmargin=\dimen183
 \caption@leftmargin=\dimen184
@@ -874,12 +874,12 @@ Package rerunfilecheck Info: File `hw4.out' has not changed.
 (rerunfilecheck)             Checksum: B4C5AFD067CBF3953C6210A28166EC43;1197.
  ) 
 Here is how much of TeX's memory you used:
- 19932 strings out of 476684
- 416156 string characters out of 5792589
+ 19960 strings out of 476683
+ 416733 string characters out of 5793904
  1863012 words of memory out of 5000000
- 39825 multiletter control sequences out of 15000+600000
+ 39851 multiletter control sequences out of 15000+600000
  523985 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,12n,97p,679b,525s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,12n,97p,688b,525s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on hw4.pdf (7 pages).
